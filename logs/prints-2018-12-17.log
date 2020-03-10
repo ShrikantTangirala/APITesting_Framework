@@ -1,0 +1,8 @@
+17:12:51.746 [main] DEBUG utilities.APIUtility - I am debugging
+17:12:51.752 [main] INFO  utilities.APIUtility - I am  not debugging
+17:12:51.753 [main] FATAL utilities.APIUtility - I will not debug
+17:13:04.343 [main] DEBUG utilities.APIUtility - I am debugging
+17:13:04.349 [main] INFO  utilities.APIUtility - I am  not debugging
+17:13:04.349 [main] FATAL utilities.APIUtility - I will not debug
+17:29:25.976 [main] DEBUG utilities.APIUtility - I am debugging
+17:29:25.981 [main] INFO  utilities.APIUtility - I am  not debugging

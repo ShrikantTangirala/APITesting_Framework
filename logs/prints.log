@@ -1,0 +1,6 @@
+01:01:09.100 [main] INFO  tests.GetDetails - 920159MyFirstTweet920159
+01:01:09.102 [main] INFO  utilities.APIUtility - Actual status and expected Status are equal200
+01:01:09.104 [main] INFO  utilities.APIUtility - Body of the request is
+01:01:09.586 [main] INFO  utilities.APIUtility - {"errors":[{"code":187,"message":"Status is a duplicate."}]}This is the response
+01:01:09.598 [main] INFO  tests.GetDetails - null
+01:01:09.599 [main] ERROR utilities.APIUtility - Actaul Status :403
